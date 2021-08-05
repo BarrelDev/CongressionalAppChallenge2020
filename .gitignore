@@ -10,6 +10,9 @@ CAC_Project/[Bb]uilds/
 CAC_Project/[Ll]ogs/
 CAC_Project/[Mm]emoryCaptures/
 
+!CAC_Project/[Ll]ibrary/cache
+!CAC_Project/[Ll]ibrary/metadata
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
